@@ -1,7 +1,5 @@
-![hey](http://i.imgur.com/szzD9q0.png)
 
-[![Build Status](https://travis-ci.org/rakyll/hey.svg?branch=master)](https://travis-ci.org/rakyll/hey)
-
+## hey
 hey is a tiny program that sends some load to a web application.
 
 hey was originally called boom and was influenced from Tarek Ziade's
@@ -11,14 +9,8 @@ To preserve the name for its original owner, we renamed this project to hey.
 
 ## Installation
 
-* Linux 64-bit: https://hey-release.s3.us-east-2.amazonaws.com/hey_linux_amd64
-* Mac 64-bit: https://hey-release.s3.us-east-2.amazonaws.com/hey_darwin_amd64
-* Windows 64-bit: https://hey-release.s3.us-east-2.amazonaws.com/hey_windows_amd64
+https://github.com/shvc/hey/releases  
 
-### Package Managers
-
-macOS:
--  [Homebrew](https://brew.sh/) users can use `brew install hey`.
 
 ## Usage
 
@@ -63,4 +55,4 @@ Options:
                         (default for current machine is 8 cores)
 ```
 
-Previously known as [github.com/rakyll/boom](https://github.com/rakyll/boom).
+Previously known as [github.com/rakyll/hey](https://github.com/rakyll/hey).
